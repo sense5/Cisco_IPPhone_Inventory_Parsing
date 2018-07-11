@@ -1,3 +1,7 @@
+# Version 1.0
+# Release Data : 2018-07-11
+# Author : thomas.h
+
 import argparse 
 import re
 import requests
