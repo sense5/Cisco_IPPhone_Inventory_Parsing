@@ -1,5 +1,7 @@
-Name: Cisco_IPPhone_Inventory_Parsing
+Cisco IP Phone Inventory Parsing Tool
+
 Function: Parsing Serial Number info from Web Interface of IP Phone
+
 Usage:
 python3 cisco_ip_phone_parsing *startip* *endip*
 
