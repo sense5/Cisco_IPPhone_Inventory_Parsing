@@ -1,9 +1,10 @@
 Cisco IP Phone Inventory Parsing Tool
 
-# Howto
-Function: Parsing Serial Number info from Web Interface of IP Phone
+Parsing Serial Number info from Web Interface of IP Phone
 
-Usage:  $python3 cisco_ip_phone_parsing.py *startip* *endip*
+# Howto
+
+$python3 cisco_ip_phone_parsing.py *startip* *endip*
 
 
 # Original Version Declaration
